@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **sachinjoseph054@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/sachinjoseph26/ResumePortfolio/blob/main/Sachin%20Joseph.pdf](https://github.com/sachinjoseph26/ResumePortfolio/blob/main/Sachin%20Joseph.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
