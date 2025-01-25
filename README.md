@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning & Big Data Projects**
 
-- 👨‍💻 All of my projects are available at [https://sachin-joseph.netlify.app/](https://sachin-joseph.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.josephsachin.com/chat)
 
 - 💬 Ask me about **data engineering, machine learning**
 
