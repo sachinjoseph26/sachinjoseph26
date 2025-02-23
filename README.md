@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sachin Joseph</h1>
 <h3 align="center">Passionate in Machine Learning & Data Engineering</h3>
 
-- 👯 I’m looking to collaborate on **Machine Learning & Big Data Projects**
+- 👯 I’m looking to collaborate on **Data engineering & Development Projects**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://www.josephsachin.com/chat)
 
-- 💬 Ask me about **data engineering, machine learning**
+- 💬 Ask me about **data engineering, full stack development**
 
 - 📫 How to reach me **sachinjoseph054@gmail.com**
 
