@@ -32,5 +32,5 @@
 
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinjoseph26&show_icons=true&locale=en" alt="sachinjoseph26" /> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinjoseph26&" alt="sachinjoseph26" /> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinjoseph26&"/> 
 </p>
